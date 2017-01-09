@@ -2,7 +2,7 @@
 //  FRDModuleManager.h
 //  FRDModuleManager
 //
-//  Created by GUO Lin on 9/29/16.
+//  Created Lin on 9/29/16.
 //  Copyright © 2016 Douban Inc. All rights reserved.
 //
 
